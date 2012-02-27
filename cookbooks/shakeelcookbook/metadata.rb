@@ -4,5 +4,5 @@ license          "All rights reserved"
 description      "Installs/Configures shakeelcookbook"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.rdoc'))
 version          "0.0.1"
-recipe "rjg_chef::default", "Prints a message to the output"
+recipe "shakeelchef::default", "Prints a message to the output"
 depends "rs_utils"

@@ -17,7 +17,7 @@
   "recommendations": {
   },
   "recipes": {
-    "rjg_chef::default": "Prints a message to the output"
+    "shakeelchef::default": "Prints a message to the output"
   },
   "groupings": {
   },
