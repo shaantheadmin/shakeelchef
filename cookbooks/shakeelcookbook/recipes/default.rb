@@ -6,4 +6,6 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-log "Shakeel message"
+rs_utils_marker :begin
+log "your message"
+rs_utils_marker :end
