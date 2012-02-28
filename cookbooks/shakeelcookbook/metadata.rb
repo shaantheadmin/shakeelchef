@@ -10,3 +10,4 @@ attribute "shakeelcookbook/custom_input",
 :display_name => "A Custom Chef Input",
 :choice => ["A", "B", "C"],
 :recipes => ["shakeelcookbook::default"]
+:required => "required"
